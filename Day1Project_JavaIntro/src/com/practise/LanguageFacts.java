@@ -1,3 +1,5 @@
+package com.practise;
+
 public class LanguageFacts {
     public static void main(String[] args) {
         // Press enter or return on your keyboard after each semicolon!
